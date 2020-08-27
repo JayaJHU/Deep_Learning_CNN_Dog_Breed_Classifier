@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
@@ -68,6 +69,11 @@ Please do __NOT__ include any of the project data sets provided in the `dogImage
 ### Ready to submit your project?
 
 Click on the "Submit Project" button in the classroom and follow the instructions to submit!
+||||||| merged common ancestors
+=======
+# Udacity_DL_Dog_Breed_CNN_Final_Project
+Udacity Deep Learning NanoDegree 2nd Project
+>>>>>>> 6d6f31a0d4d4e99299e568d0319ea3cf963041e4
 ||||||| merged common ancestors
 =======
 # Udacity_DL_Dog_Breed_CNN_Final_Project
