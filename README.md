@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
